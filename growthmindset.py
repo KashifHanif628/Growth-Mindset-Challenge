@@ -33,10 +33,10 @@ else:
 
 # Acheivment
 st.header("Celebrate your Wins!")
-achievement = st.text(f"Please share something you have accomplished.")
+achievment = st.text(f"Please share something you have accomplished.")
 
-if achievement:
-    st.success(f"🏆 Wow! You achieved: {achievement}\n🌟 Every step forward is a victory. Keep pushing and celebrating your progress! 🚀")
+if achievment:
+    st.success(f"🏆 Wow! You achieved: {achievment}\n🌟 Every step forward is a victory. Keep pushing and celebrating your progress! 🚀")
 else:
     st.info("🎯 Big or small, every achievement counts! 🌱 Take a moment to recognize your progress and share your success. 💪")
 
