@@ -1,6 +1,6 @@
-🌱 Growth Mindset Challenge
+**🌱 Growth Mindset Challenge**
 
-🚀 A Web App to Inspire and Track Your Growth!
+**🚀 A Web App to Inspire and Track Your Growth!**
 
 Welcome to the Growth Mindset Challenge Web App! This platform is designed to help you develop a positive mindset, reflect on your progress, and celebrate your achievements. 🌟 Whether you're overcoming challenges, setting new goals, or simply reflecting on your journey, this app provides the perfect space for self-improvement! 💪✨
 
@@ -65,14 +65,22 @@ streamlit run growthmindset.py
 
 🔗 Live Demo
 🚀 Click Here to Access the App
+
 https://kashifgrowth.streamlit.app/
 
+
+
 📌 Author & Credits
+
 👨‍💻 Created by: Muhammad Kashif Hanif
+
 📧 Contact: muhammadkashif628@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/kashif-hanif-1782892b9/
 
 🔖 © 2025 Muhammad Kashif Hanif. All Rights Reserved.
+
+
 
 🔥 Start Your Growth Journey Today! Keep Learning, Keep Growing! 🚀🌱
 
