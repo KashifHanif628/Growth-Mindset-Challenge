@@ -1,9 +1,11 @@
 🌱 Growth Mindset Challenge
 
 🚀 A Web App to Inspire and Track Your Growth!
+
 Welcome to the Growth Mindset Challenge Web App! This platform is designed to help you develop a positive mindset, reflect on your progress, and celebrate your achievements. 🌟 Whether you're overcoming challenges, setting new goals, or simply reflecting on your journey, this app provides the perfect space for self-improvement! 💪✨
 
 📌 Key Features
+
 ✅ Daily Growth Mindset Quote – Get inspired with motivational quotes every day! 💬🔥
 ✅ Challenge Tracker – Share a challenge you're facing and get encouragement to push forward! 🎯💡
 ✅ Reflection Section – Analyze and document your learning experiences for continuous growth! 💭📝
