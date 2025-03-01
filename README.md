@@ -43,11 +43,17 @@ Welcome to the Growth Mindset Challenge Web App! This platform is designed to he
 
 
 🎯 Benefits of Using This App
+
 🌟 Encourages Self-Reflection – Helps you analyze your past experiences and learn from them.
+
 🌟 Boosts Motivation – Daily quotes and success tracking keep you inspired.
+
 🌟 Enhances Productivity – By setting challenges and tracking progress, you stay focused.
+
 🌟 Develops a Positive Mindset – Encourages resilience and continuous learning.
+
 🌟 Tracks Personal Growth – Over time, you can see how much you've improved!
+
 
 📌 How to Run This Project Locally?
 
